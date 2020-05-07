@@ -16,15 +16,15 @@ public class Five {
 
         if((ch >= 'a' && ch <= 'z') || (ch >= 'A' && ch <= 'Z')) {
 
-             System.out.println(ch + " is an alphabhet.");
+             System.out.println("alphabhet");
 
         } else if(ch >= '0' && ch <= '9') {
 
-             System.out.println(ch + " is a digit.");
+             System.out.println("digit");
 
         } else {
 
-             System.out.println(ch + " is a special character.");
+             System.out.println("special character");
         }
     
     }
