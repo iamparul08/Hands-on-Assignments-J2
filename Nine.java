@@ -1,4 +1,4 @@
-/* Write a program to receive a number and print the corresponding month name.*/
+
 
 import java.util.*;
 class Nine{
